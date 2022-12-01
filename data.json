@@ -1,0 +1,31 @@
+{
+    "education": [
+        {
+            "schoolName": "Chas Academy  (2022-pågående)",
+            "text": "Fullstackutvecklare .NET"
+        },
+        {
+            "schoolName": "NTI-Skolan vuxenutbildning (2018-2022)",
+            "text": "Samhällsvetenskapliga programmet"
+        },
+        {
+            "schoolName": "Stockholms hotell-och restaurangskola (2015-2017)",
+            "text": "Bageri"
+        }
+    ],
+    "work": [
+        {
+            "companyName": "Storesupport (2021-2022)",
+            "text": "Lagerarbetare - intermittent"
+
+        },
+        {
+            "companyName": "Timarco AB (2019-2021)",
+            "text": "Här arbetade jag  med pack och plock, sortering av paket, inventeringar, inleveranser och lagerläggning av varor.<br /> Arbetet har gett mig bred kunskap i hur olika lagersystem är uppbyggda."
+        },
+        {
+            "companyName": "Mcdonald's Solna (2015)",
+            "text": "Under min tid på Mcdonald's lärde jag mig att arbeta effektivt utan negativ påverkan på kvalitet eller service,<br /> och att få en bra kundkontakt. Jag arbetade även med merförsäljning."
+        }
+    ]
+}

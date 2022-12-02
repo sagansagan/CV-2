@@ -107,6 +107,11 @@ header {
 #education{
     padding: 3em;
 }
+#education>li, #work>li{
+    padding: 1em;
+    line-height: 2em;
+    font-size: large;
+}
 
 
  /*<------portfolio------->*/

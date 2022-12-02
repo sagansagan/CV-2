@@ -1,2 +1,2 @@
 # Hej! Detta är mitt cv
-## Länk github pages: https://sagansagan.github.io/CV-2/
+### Länk github pages: https://sagansagan.github.io/CV-2/
